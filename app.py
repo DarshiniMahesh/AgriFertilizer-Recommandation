@@ -74,7 +74,7 @@ def predict_fertilizer(input_values):
 page_bg_color = '''
 <style>
 [data-testid="stAppViewContainer"] {
-    background-color:rgb(70, 130, 180);
+    background-color:rgb(0, 153, 153);
 }
 </style>
 '''
