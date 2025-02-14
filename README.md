@@ -5,9 +5,8 @@ A user-friendly web app built with Streamlit to recommend the best fertilizer ba
   1.Installation  
 2.Usage  
 3.Project Structure  
-4.Model Training  
-5.License  
-
+4.Model Training 
+5.Result  
 
 ## Installation :-  
 To run this application locally, follow these steps:  
@@ -48,5 +47,5 @@ Load the dataset : Ensure you have a CSV dataset named FertPredictDataset.csv wi
 Run the model training script : python model.py  
 Save the trained model and preprocessing tools: The script will save the model as fertilizer_model.h5, and the preprocessing tools as scaler.pkl and label_encoder.pkl.  
 
-## License :-  
-This project is licensed under the MIT License.  
+## Result :-
+The AgriFertilizer Recommendation System was evaluated on its ability to accurately recommend fertilizers based on soil properties, crop type, and environmental conditions.
