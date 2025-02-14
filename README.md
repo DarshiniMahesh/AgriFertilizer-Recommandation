@@ -8,6 +8,7 @@ A user-friendly web app built with Streamlit to recommend the best fertilizer ba
 4.Model Training 
 5.Result  
 
+
 ## Installation :-  
 To run this application locally, follow these steps:  
 Clone the repository:  
