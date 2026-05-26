@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, StandardScaler
 import joblib
 
-# Check if the model file exists
+# Check if the model file exists or not
 if os.path.exists('fertilizer_model.h5'):
     print("Model already trained")
 else:
